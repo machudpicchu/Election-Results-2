@@ -31,5 +31,9 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 ## Challenge Overview
+The election commission for this election has requested some additional data from this set of data to complete the audit.  This includes the following:
+1. The voter turn-out for each county.
+2. The percentage of votes from each county out of the total count
+3. The county with the highest turnout
 
 ## Challenge Summary
