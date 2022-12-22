@@ -31,5 +31,12 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 ## Challenge Overview
+The election commission for this election has requested some additional data from this set of data to complete the audit.  This includes the following:
+1. The voter turn-out for each county.
+2. The percentage of votes from each county out of the total count
+3. The county with the highest turnout
 
 ## Challenge Summary
+To achieve these results, additional variables and for loops were added to the existing code.  These included one loop to iterate through the spread sheet to find the name of each county, another loop to count the number of votes per county as the other county iterated through the list, and finally a decision statement to to determine which county had the highest turnout.
+
+These results were then published on a line in the command terminal of the code as well as written to a separate text file.
